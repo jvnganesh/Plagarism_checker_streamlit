@@ -29,22 +29,17 @@ This project is a Streamlit-based application for detecting and highlighting pla
     cd plagiarism-checker
     ```
 
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the Streamlit app:
+2. Run the Streamlit app:
     ```bash
     streamlit run app.py
     ```
 
-4. Open the Streamlit app in your browser:
+3. Open the Streamlit app in your browser:
     ```
     http://localhost:8501
     ```
 
-5. Upload two `.docx` files for comparison and check the results.
+4. Upload two `.docx` files for comparison and check the results.
 
 ## Dependencies
 
